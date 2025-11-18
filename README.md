@@ -2,6 +2,20 @@
 
 An intelligent learning system powered by Google Gemini File Search API that provides RAG-based tutoring, flashcards, quizzes, and study schedules from your PDF documents.
 
+## 📸 Screenshots
+
+### PDF Upload & Indexing
+![Upload & Index PDFs](screenshots/upload-pdfs.png)
+*Upload and index PDF documents for processing. The interface shows real-time status updates during indexing and displays all indexed PDFs with their store IDs.*
+
+### Visual Study Schedule Generator
+![Study Schedule](screenshots/study-schedule.png)
+*Generate intelligent, multi-day study schedules from uploaded PDFs. Each day includes session titles, summaries, and page references to guide your learning.*
+
+### Interactive Flashcards
+![Flashcards](screenshots/flashcards.png)
+*Create and study with interactive flashcards. Navigate through cards, flip to see answers, and review key concepts from your PDFs.*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -60,6 +74,7 @@ An intelligent learning system powered by Google Gemini File Search API that pro
 
 ## 🏗️ Architecture
 
+### System Overview
 ```
 MicroTutor
 ├── app.py                    # Entry point
@@ -74,6 +89,18 @@ MicroTutor
 └── ui/
     └── interface.py         # Gradio UI
 ```
+
+### Gemini File Search Integration
+
+![File Search in Gemini API](screenshots/gemini-file-search-api.png)
+*Gemini File Search API supports multiple input formats (JSON, JavaScript, Python) and processes PDF documents through advanced neural network models for intelligent content understanding and retrieval.*
+
+### RAG Architecture (Indexing & Querying)
+
+![RAG Architecture](screenshots/gemini-rag-architecture.png)
+*The RAG (Retrieval-Augmented Generation) architecture used by MicroTutor:*
+- **Indexing Process (Offline)**: Documents are stored, embedded, and indexed in a vector database
+- **Querying Process (Real-time)**: Gemini intelligently decides when to retrieve context from the knowledge base, generates search queries, and synthesizes answers with citations
 
 ## 🔧 Troubleshooting
 
