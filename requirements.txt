@@ -1,0 +1,8 @@
+google-generativeai
+google-genai
+mem0ai
+qdrant-client
+pymupdf
+gradio
+python-dotenv
+
