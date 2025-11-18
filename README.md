@@ -70,7 +70,7 @@ An intelligent learning system powered by Google Gemini File Search API that pro
 - **📅 Intelligent Study Schedule**: Generate personalized study schedules from your PDFs
 - **🃏 Flashcards**: Generate interactive flashcards for any topic
 - **📝 Interactive Quiz**: Create and take quizzes with immediate feedback
-- **🧠 Learning Memory**: Track your progress with mem0 (optional)
+- **🧠 Learning Memory**: Track your progress with mem0
 
 ## 🏗️ Architecture
 
