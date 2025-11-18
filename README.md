@@ -5,15 +5,12 @@ An intelligent learning system powered by Google Gemini File Search API that pro
 ## 📸 Screenshots
 
 ### PDF Upload & Indexing
-![Upload & Index PDFs](screenshots/Home.png)
 *Upload and index PDF documents for processing. The interface shows real-time status updates during indexing and displays all indexed PDFs with their store IDs.*
 
 ### Visual Study Schedule Generator
-![Study Schedule](screenshots/Scheduler.png)
 *Generate intelligent, multi-day study schedules from uploaded PDFs. Each day includes session titles, summaries, and page references to guide your learning.*
 
 ### Interactive Flashcards
-![Flashcards](screenshots/flashcards.png)
 *Create and study with interactive flashcards. Navigate through cards, flip to see answers, and review key concepts from your PDFs.*
 
 ## 🚀 Quick Start
