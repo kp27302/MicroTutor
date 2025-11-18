@@ -1,4 +1,4 @@
-# 📘 MicroTutor
+# MicroTutor AI 📘
 
 An intelligent learning system powered by Google Gemini File Search API that provides RAG-based tutoring, flashcards, quizzes, and study schedules from your PDF documents.
 
