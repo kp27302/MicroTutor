@@ -2,7 +2,7 @@
 
 An intelligent learning system powered by Google Gemini File Search API that provides RAG-based tutoring, flashcards, quizzes, and study schedules from your PDF documents.
 
-## 📸 Screenshots
+## App Features
 
 ### PDF Upload & Indexing
 *Upload and index PDF documents for processing. The interface shows real-time status updates during indexing and displays all indexed PDFs with their store IDs.*
