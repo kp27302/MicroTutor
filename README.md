@@ -92,7 +92,7 @@ MicroTutor
 
 ### Gemini File Search Integration
 
-![File Search in Gemini API](screenshots/gemini-file-search-api.png)
+![File Search in Gemini API](screenshots/1_peaeCFBoLSmG2GvX13luaQ.png)
 *Gemini File Search API supports multiple input formats (JSON, JavaScript, Python) and processes PDF documents through advanced neural network models for intelligent content understanding and retrieval.*
 
 ### RAG Architecture (Indexing & Querying)
