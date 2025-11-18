@@ -97,7 +97,7 @@ MicroTutor
 
 ### RAG Architecture (Indexing & Querying)
 
-![RAG Architecture](screenshots/gemini-rag-architecture.png)
+![RAG Architecture](screenshots/File-search.png)
 *The RAG (Retrieval-Augmented Generation) architecture used by MicroTutor:*
 - **Indexing Process (Offline)**: Documents are stored, embedded, and indexed in a vector database
 - **Querying Process (Real-time)**: Gemini intelligently decides when to retrieve context from the knowledge base, generates search queries, and synthesizes answers with citations
