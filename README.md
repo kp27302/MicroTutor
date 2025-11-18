@@ -5,7 +5,7 @@ An intelligent learning system powered by Google Gemini File Search API that pro
 ## 📸 Screenshots
 
 ### PDF Upload & Indexing
-![Upload & Index PDFs](screenshots/upload-pdfs.png)
+![Upload & Index PDFs](screenshots/Screenshot 2025-11-17 042029.png)
 *Upload and index PDF documents for processing. The interface shows real-time status updates during indexing and displays all indexed PDFs with their store IDs.*
 
 ### Visual Study Schedule Generator
